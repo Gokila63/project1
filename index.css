@@ -1,0 +1,77 @@
+header{
+    display: flex;
+}
+.c{
+    margin-left: 70%;
+    margin-top: 35px;
+}
+img{
+    border-radius: 50px;
+    height: 80px;
+    width: 80px;
+}
+a{
+    padding: 10px;
+}
+button:hover{
+      background-color: aqua;
+      transform: scale(1);
+      border: none;
+      box-shadow: -1px 1px 34px 0px rgba(115, 193, 224, 0.75);
+}
+
+.go{
+    display: flex;
+  
+}
+ul{
+    display: flex;
+    margin-left: 30%;
+}
+li{
+  
+}
+.re{
+  margin: 10px;
+   padding-left: 100px;
+
+}
+    
+button{
+   padding: 0px;
+   margin: 10px;
+   border-radius: 5px;
+   height: 30px;
+   width: 150px;
+ }
+ ul{
+    list-style: none;
+ }
+ ul li{
+    padding-left: 100px;
+ }
+ .ta{
+    margin-top: 100px;
+ }
+ .gt{
+    position: relative;
+    left: -200px;
+ }
+ .tg{
+    position: relative;
+    left: -180px;
+    top: 20px;
+
+ }
+ .l{
+    position: relative;
+    left: -17px;
+}
+.m{
+    position: relative;
+    left: 15px;
+}
+.n{
+    position: relative;
+    left: 60px;
+}
